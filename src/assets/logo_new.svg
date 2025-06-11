@@ -1,0 +1,27 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dolphin shape -->
+  <path d="M30 40 Q20 30 35 25 Q50 20 65 25 Q75 30 80 40 Q75 50 65 55 Q50 60 35 55 Q20 50 30 40 Z" 
+        fill="#1976D2" stroke="none"/>
+  
+  <!-- Dolphin fin -->
+  <path d="M45 35 Q40 25 50 30 Q55 35 45 35 Z" 
+        fill="#1565C0" stroke="none"/>
+  
+  <!-- Dolphin eye -->
+  <circle cx="55" cy="38" r="3" fill="white"/>
+  <circle cx="56" cy="37" r="1.5" fill="#333"/>
+  
+  <!-- Text "Dolphin" -->
+  <text x="95" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1976D2">
+    Dolphin
+  </text>
+  
+  <!-- Text "AI" -->
+  <text x="95" y="55" font-family="Arial, sans-serif" font-size="16" font-weight="normal" fill="#666">
+    AI
+  </text>
+  
+  <!-- Decorative wave -->
+  <path d="M25 50 Q30 45 35 50 Q40 55 45 50" 
+        stroke="#42A5F5" stroke-width="2" fill="none" opacity="0.6"/>
+</svg>
